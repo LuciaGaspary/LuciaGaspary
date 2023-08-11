@@ -1,6 +1,4 @@
-### Oi pessoal, eu sou a Lucia Gaspary, estou estudando ADS na UCPEL 👋
-
-- 🌱 Atualmente estou desenvolvendo projetos de Machine Learning com Python e projetos Front-End com HTML, CSS, JavaScript, Bootstrap e Reactjs
+- 🌱 Atualmente estou desenvolvendo projetos de Machine Learning com Python e projetos Front-End com HTML, CSS, JavaScript e Reactjs
 - 📫 Contato: luciagaspary@gmail.com
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fun fact: Sou apaixonada por fotografia 
